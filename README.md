@@ -7,6 +7,15 @@ Saat ini sedang mendalami **Automated Testing** menggunakan **Playwright & TypeS
 
 ---
 
+### 🎯 Current Focus & Practices
+
+- 🧪 **Test Automation:** Mengembangkan *end-to-end automated testing* menggunakan **Playwright & TypeScript**.
+- 🔍 **Software Quality Assurance:** Merancang *test scenario*, *regression testing*, dan memastikan kualitas rilis perangkat lunak.
+- 📱 **Academic & Side Projects:** Eksplorasi pengembangan aplikasi web (**Laravel, PHP, MySQL**) dan mobile (**React Native, Expo, Firebase**).
+- 🌱 **Currently Learning:** Memperdalam pola arsitektur *Page Object Model (POM)* dan integrasi pengujian otomatis pada *CI/CD pipeline*.
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 **QA & Test Automation**  
@@ -26,13 +35,13 @@ Saat ini sedang mendalami **Automated Testing** menggunakan **Playwright & TypeS
 
 ### 📱 Featured Mobile Projects (Pemrograman Mobile)
 
-* **[TugasWebViewFabric](https://github.com/jayen11/TugasWebViewFabric)** — Implementasi komponen WebView pada arsitektur Fabric di React Native.
-* **[tic-tac-toe-app](https://github.com/jayen11/tic-tac-toe-app)** — Aplikasi permainan Tic Tac Toe interaktif menggunakan React Native & TypeScript.
-* **[ToDoApp](https://github.com/jayen11/ToDoApp)** — Aplikasi To-Do List Full CRUD terintegrasi dengan Cloud Firestore secara real-time.
+* **[TugasWebViewFabric](https://github.com/jayenn11/TugasWebViewFabric)** — Implementasi komponen WebView pada arsitektur Fabric di React Native.
+* **[tic-tac-toe-app](https://github.com/jayenn11/tic-tac-toe-app)** — Aplikasi permainan Tic Tac Toe interaktif menggunakan React Native & TypeScript.
+* **[ToDoApp](https://github.com/jayenn11/ToDoApp)** — Aplikasi To-Do List Full CRUD terintegrasi dengan Cloud Firestore secara real-time.
 
 ---
 
 ### 📊 GitHub Stats
 
-![Jayen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayen11&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayen11&layout=compact&theme=tokyonight)
+![Jayenn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayenn11&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayenn11&layout=compact&theme=tokyonight)
